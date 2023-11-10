@@ -1,0 +1,63 @@
+
+.sect{ 
+    
+   display: flex;
+   justify-content: center;
+   margin-top: 40px;
+   
+}
+.adres{
+   width: 318px;
+   height: 61px;
+    font-weight: 400;
+    font-size:14px ;
+     margin-left:60px ;
+     margin-right: 100px;
+     margin-top: 20px;
+     margin-right: 100px;
+     color: var(--color-gr-variant);
+     
+}
+.adres__citi{
+    margin-bottom: 10px;
+}
+.image{
+    cursor: pointer;
+    width:70px ;
+    height: 70px;
+}
+.phone{
+    
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+
+}
+.cont{
+    width: 318px;
+    cursor: pointer;
+   
+}
+.cont h1{
+     
+    font-weight: 500;
+    font-size: 24px;
+   line-height: 17px;
+   margin-top: 20px;
+   color: var(--color-primri);
+}
+.cont h3{
+    color: var(--color-gr-variant);
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration:underline
+}
+.btn__head{
+    width:100px ;
+    margin: 40px 0px 50px 0px;
+    font-size: 14px ;
+    
+}
+.logo{
+    margin: 0px 200px 0px 0px;
+}

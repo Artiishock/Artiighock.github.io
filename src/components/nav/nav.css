@@ -1,0 +1,13 @@
+
+
+.all{
+    display: flex;
+    justify-content: center;
+    background-color: var(--color-light);
+    height: 60px;
+}
+.text{
+   margin-top: 15px;
+    margin-right: 150px;
+    color: var(--color-primari);
+}

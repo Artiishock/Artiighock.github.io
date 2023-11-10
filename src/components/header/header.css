@@ -1,0 +1,26 @@
+header{
+    width: 100%;
+    background-image:url('../../assets/header-img.png') ;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.btn__head{
+    width:100px ;
+    margin: 40px 0px 50px 0px;
+    font-size: 14px ;
+    width: 222.04px;
+height: 44.41px;
+
+    
+}
+.posit{
+    width: 300px;
+    height: 60px;
+    margin-left: 158px;
+    margin-top: 463px;
+    font-size: 20px;
+}
+
+
+
